@@ -1,20 +1,5 @@
-This is your group repo for your final project for COGS108.
+Group repo for final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+The goal of this project was to find the effect of college GPA on factors of career success, namely, salary and job satisfaction. We used data from the National Survey of Recent College Graduates to explore relationships between GPA and other variables across different fields of work. Using visualization and linear regression techniques, we found statistically significant correlations between college GPA and both salary and job satisfaction, and observed differences in these relationships between different college majors.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Checkpoint #1 notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included. Be sure to change XXX to your group's group number in the file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+The complete project can be found in "Final_Project.ipynb" in the same repository.
